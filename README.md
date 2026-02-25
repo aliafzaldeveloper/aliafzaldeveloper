@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Afzal</h1>
 <h3 align="center">🚀 Full-Stack Developer | MERN Stack | Generative AI Engineer | Cloud Enthusiast</h3>
 <hr>
-<br>
+
 
 <h3>🚀 Specializations</h3>
 
@@ -36,21 +36,16 @@ To build AI-driven products that solve real-world business problems and scale gl
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/aliafzaldeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aliafzaldeveloper" height="30" width="40" /></a>
-<a href="https://dev.to/aliafzaldeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aliafzaldeveloper" height="30" width="40" /></a>
+
 <a href="https://twitter.com/aliafzaldeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aliafzaldeveloper" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aliafzaldeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliafzaldeveloper" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/aliafzaldeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aliafzaldeveloper" height="30" width="40" /></a>
-<a href="https://codesandbox.com/aliafzaldeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="aliafzaldeveloper" height="30" width="40" /></a>
-<a href="https://kaggle.com/aliafzaldeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aliafzaldeveloper" height="30" width="40" /></a>
 <a href="https://fb.com/aliafzaldeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aliafzaldeveloper" height="30" width="40" /></a>
 <a href="https://instagram.com/aliafzaldeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aliafzaldeveloper" height="30" width="40" /></a>
-<a href="https://dribbble.com/aliafzaldeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="aliafzaldeveloper" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/aliafzaldeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aliafzaldeveloper" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aliafzaldeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aliafzaldeveloper" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aliafzaldeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aliafzaldeveloper" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@aliafzaldeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aliafzaldeveloper" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/aliafzaldeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="aliafzaldeveloper" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
