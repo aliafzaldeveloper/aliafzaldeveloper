@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Afzal</h1>
 <h3 align="center">🚀 Full-Stack Developer | MERN Stack | Generative AI Engineer | Cloud Enthusiast</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliafzaldeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="aliafzaldeveloper" /> </p>
 <hr>
 
 
